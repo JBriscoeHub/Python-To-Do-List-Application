@@ -1,7 +1,7 @@
 # Python To-Do List Application
 
 
-A Python programming projected completed for CS101 at the University of Missouri-Kansas City. A simple command-line To-Do List application built with Python.
+A Python programming project completed for CS101 at the University of Missouri-Kansas City. A simple command-line To-Do List application built with Python.
 
 
 ## 📌 Description
